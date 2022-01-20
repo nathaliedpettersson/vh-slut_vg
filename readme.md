@@ -5,16 +5,16 @@ Gritty Café är en exempelsite för att lära sig versionshantering med Git och
 
 
 ## Översikt
-**Content** finns i rotmappen
-**Bilder** finns i folder *img*
+**Content** finns i rotmappen\
+**Bilder** finns i folder *img*\
 **Styling** finns i folder *style*
 
 ## credits
-> Så nu sitter jag här i min nya bil
-> Och lyfter min gyllene hatt
-> Och jag vill tacka livet, jag har haft tur
+> Så nu sitter jag här i min nya bil\
+> Och lyfter min gyllene hatt\
+> Och jag vill tacka livet, jag har haft tur\
 
-av Lars Demian, stjärnan och karriären
+av Lars Demian, stjärnan och karriären\
 (OBS! Känsliga varnas för ekivok text.)
 
 ## Licens
