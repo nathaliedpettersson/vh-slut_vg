@@ -1,0 +1,8 @@
+a:link {
+   text-decoration: none;
+}
+
+a:hover > p {
+   background-color: black;
+   color: white;
+}
