@@ -12,7 +12,7 @@ Gritty Café är en exempelsite för att lära sig versionshantering med Git och
 ## credits
 > Så nu sitter jag här i min nya bil\
 > Och lyfter min gyllene hatt\
-> Och jag vill tacka livet, jag har haft tur\
+> Och jag vill tacka livet, jag har haft tur
 
 av Lars Demian, stjärnan och karriären\
 (OBS! Känsliga varnas för ekivok text.)
