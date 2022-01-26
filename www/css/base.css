@@ -16,9 +16,10 @@ a:hover > p {
 }
 
 body {
-   background-color: darkolivegreen;
+   background-color: #1F5373;
    font-family: Arial, Helvetica, sans-serif;
    color: white;
+   min-height: 100vh;
 }
 
 .navigation {
@@ -56,6 +57,10 @@ h2 {
    border: 2px solid #082640;
    padding: 1rem;
    box-shadow: 2px 2px 2px #082640;
+}
+
+.cafe-menu h2 {
+   color: #F2C53D;
 }
 
 .content h1 {
