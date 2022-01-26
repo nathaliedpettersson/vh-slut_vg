@@ -30,6 +30,8 @@ body {
 }
 .logo img {
    height: 100px;
+   opacity: 0.1;
+   margin: 1rem 32rem 1rem 32rem;
 }
 
 .header {
@@ -43,7 +45,14 @@ h2 {
 
 .content img {
    width: 1280px;
+   opacity: 0.1;
 }
+
+.content img:hover {
+opacity: 1;
+box-shadow: 5px 5px 5px lightgrey;
+}
+
 
 .menu-content {
    display: flex;
