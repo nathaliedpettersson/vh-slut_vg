@@ -17,4 +17,13 @@ a:hover > p {
 
 body {
    background-color: darkolivegreen;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo img {
+   height: 100px;
+}
+
+.content img {
+   width: 1280px;
 }
