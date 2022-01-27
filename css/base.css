@@ -17,7 +17,7 @@ a:hover > p {
 
 body {
    background-color: #1F5373;
-   font-family: Arial, Helvetica, sans-serif;
+   font-family: Helvetica, sans-serif;
    color: white;
    max-height: 100vh;
 }
@@ -36,11 +36,13 @@ body {
 
 .header {
    text-align: center;
+   font-family: Helvetica, sans-serif;
 }
 
 h2 {
    text-align: center;
    text-transform: uppercase;
+   font-family: Helvetica, sans-serif;
 }
 
 .content img {
@@ -60,6 +62,7 @@ box-shadow: 5px 5px 5px lightgrey;
    flex-wrap: wrap;
    justify-content: space-between;
    margin: 3rem 1rem 3rem 1rem;
+   font-family: Helvetica, sans-serif;
 }
 
 .cafe-menu {
@@ -74,10 +77,12 @@ box-shadow: 5px 5px 5px lightgrey;
 
 .content h1 {
    text-transform: uppercase;
+   font-family: Helvetica, sans-serif;
 }
 
 .p-index {
    text-align: center;
+   font-family: Helvetica, sans-serif;
 }
 
 .content-find {
@@ -85,6 +90,7 @@ box-shadow: 5px 5px 5px lightgrey;
    align-items: center;
    flex-direction: column;
    margin-top: 3rem;
+   font-family: Helvetica, sans-serif;
 }
 
 .footer {
@@ -101,5 +107,6 @@ box-shadow: 5px 5px 5px lightgrey;
    text-align: center;
    margin-left: 30rem;
    margin-right: 30rem;
+   font-family: Helvetica, sans-serif;
 }
 
