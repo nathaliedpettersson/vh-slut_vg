@@ -5,9 +5,9 @@ Gritty Café är en exempelsite för att lära sig versionshantering med Git och
 
 
 ## Översikt
-**Content** finns i rotmappen\
+**Content** finns i mapp till projektet
 **Bilder** finns i folder *img*\
-**Styling** finns i folder *style*
+
 
 ## credits
 > Så nu sitter jag här i min nya bil\
@@ -22,3 +22,4 @@ Detta projekt är publicerat med [MIT-license](https://opensource.org/licenses/M
 
 ## Författare
 [@johan-at-grit](https://github.com/johan-at-grit/)
+Och Nathalie Pettersson som gjort en fork på Johans originalprojekt som en del av vg-nivå i kursen Versionshantering
